@@ -10,6 +10,8 @@ https://cadastre.data.gouv.fr/data/dgfip-pci-vecteur/2023-07-01/edigeo/departeme
 
 https://www.meilleursagents.com/prix-immobilier/eysines-33320/
 
+https://www.insee.fr/fr/metadonnees/cog/arrondissement/ARR332-bordeaux
+
 
 On prends toutes les villes d'une zone géographique selon l'insee (pour cet exemple, bordeaux)
 
