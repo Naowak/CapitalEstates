@@ -12,6 +12,8 @@ https://www.meilleursagents.com/prix-immobilier/eysines-33320/
 
 https://www.insee.fr/fr/metadonnees/cog/arrondissement/ARR332-bordeaux
 
+https://www.seloger.com/prix-de-l-immo/vente/aquitaine/gironde/yvrac/330554.htm
+
 
 On prends toutes les villes d'une zone géographique selon l'insee (pour cet exemple, bordeaux)
 
