@@ -3,9 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-data*
-_map*
-map*
+communes*.json
+dvf*.txt
 
 # C extensions
 *.so
