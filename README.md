@@ -6,21 +6,7 @@ Ce projet vise à quantifier la quantité de logement que Bernard Arnault pourra
 
 Pour ce premier cas, je m'intéresse à la ville de Bordeaux et ses alentours. Il s'agit donc en premier lieu d'estimée la valeur de tous les logements d'une ville à partir de données publiques. Puis, de calculer le nombre de logements que l'on peut acheter avec la fortune de Bernard Arnault.
 
-### Sources des données
-
-Pour ce faire, nous allons utilise les données suivantes : 
-
-- [Liste des villes de l'agglomération de Bordeaux selon l'INSEE](https://www.insee.fr/fr/metadonnees/cog/arrondissement/ARR332-bordeaux)
-
-- [Prix au mètre carré par ville et type de logement selon meilleursagents.com](https://www.meilleursagents.com/prix-immobilier/bordeaux-33000/)
-
-- [Nombre et répartition de logements par ville selon ville-data.com](https://ville-data.com/logement/Bordeaux-33-33063)
-
-- [Taille moyenne des logements par ville selon alliance-habitat](https://www.alliance-habitat.com/investissement-locatif/logement-decent/taille-logement/)
-
-- [Population par ville selon ville-data.com](https://ville-data.com/nombre-d-habitants/Bordeaux-33-33063)
-
-- [Données cadastrales par ville selon cadastre.data.gouv.fr](https://cadastre.data.gouv.fr/data/dgfip-pci-vecteur/2023-07-01/edigeo/departements/)
+![Carte des valeurs de l'ensemble des logements par ville](/image.png)
 
 ### Méthodologie d'Estimation de la Valeur des Logements par Ville
 
@@ -73,3 +59,18 @@ pip install -r requirements.txt
 
 3. Run the notebook
 
+### Sources des données
+
+Pour ce faire, nous allons utilise les données suivantes : 
+
+- [Liste des villes de l'agglomération de Bordeaux selon l'INSEE](https://www.insee.fr/fr/metadonnees/cog/arrondissement/ARR332-bordeaux)
+
+- [Prix au mètre carré par ville et type de logement selon meilleursagents.com](https://www.meilleursagents.com/prix-immobilier/bordeaux-33000/)
+
+- [Nombre et répartition de logements par ville selon ville-data.com](https://ville-data.com/logement/Bordeaux-33-33063)
+
+- [Taille moyenne des logements par ville selon alliance-habitat](https://www.alliance-habitat.com/investissement-locatif/logement-decent/taille-logement/)
+
+- [Population par ville selon ville-data.com](https://ville-data.com/nombre-d-habitants/Bordeaux-33-33063)
+
+- [Données cadastrales par ville selon cadastre.data.gouv.fr](https://cadastre.data.gouv.fr/data/dgfip-pci-vecteur/2023-07-01/edigeo/departements/)
