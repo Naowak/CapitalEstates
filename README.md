@@ -2,11 +2,11 @@
 
 ### Description
 
-Ce projet vise à quantifier la quantité de logement que Bernard Arnault pourrait acheter avec sa fortune estimée 202,6 milliards d'euros (juil. 2023).  
+Ce projet vise à quantifier la quantité de logement que Bernard Arnault pourrait acheter avec sa fortune estimée 212,7 milliards d'euros [(selon Forbes, juil. 2023)](https://www.forbes.fr/classements/classement-milliardaires-forbes-2023-2-bernard-arnault-lempereur-du-luxe-au-210-milliards-de-fortune/).  
 
 Pour ce premier cas, je m'intéresse à la ville de Bordeaux et ses alentours. Il s'agit donc en premier lieu d'estimée la valeur de tous les logements d'une ville à partir de données publiques. Puis, de calculer le nombre de logements que l'on peut acheter avec la fortune de Bernard Arnault.
 
-![Carte des valeurs de l'ensemble des logements par ville](/image.png)
+![Carte](/infographie.png)
 
 ### Méthodologie d'Estimation de la Valeur des Logements par Ville
 
