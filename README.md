@@ -1,4 +1,4 @@
-# CapitalEstates : The Bernard Arnault Edition
+# Capital Estates : The Bernard Arnault Edition
 
 ### Description
 
