@@ -5,6 +5,7 @@ __pycache__/
 
 communes*.json
 dvf*.txt
+image.png
 
 # C extensions
 *.so
