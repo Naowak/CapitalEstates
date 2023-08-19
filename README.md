@@ -22,17 +22,16 @@ Je m'intéresse à la ville de Bordeaux et ses alentours, ainsi qu'a la ville de
    - Attention, la répartition par nombre de pièces est disponible uniquement pour les logements principaux. Pour avoir une vue d'ensemble, on extrapolera ces statistiques aux logements totaux en utilisant le même ratio.
 
 4. **Estimation de la Taille des Logements** :
-   - On utilise la base de données DVF pour estimer la taille moyenne d'un logement en fonction du nombre de pièces.
-   - Si une ville a moins de 5 ventes enregistrées pour un certain nombre de pièces, nous utilisons la taille moyenne fournie par alliance-habitat pour ce type de logement.
-   - On calcule alors la taille moyenne pour chaque type de logement (maison ou appartement) et pour chaque nombre de pièces.
+   - On utilise la base de données DVF pour estimer pour chaque ville la taille moyenne d'un logement en fonction du nombre de pièces.
+   - Si une ville a moins de 5 ventes enregistrées pour un certain nombre de pièces et type de logement, nous utilisons la taille moyenne fournie par alliance-habitat pour ce nombre de pièce et type de logement.
 
 5. **Estimation de la Valeur des Logements** :
    - On consulte meilleursagents.com pour connaître le prix au mètre carré pour chaque ville et type de logement.
-   - En multipliant ce prix au mètre carré par la taille moyenne des logements (selon le nombre de pièces et le type), nous obtenons une estimation de la valeur globale des logements dans une ville donnée.
+   - En multipliant ce prix au mètre carré par la taille moyenne des logements (selon le nombre de pièces et le type de logement), nous obtenons une estimation de la valeur totale des logements dans une ville donnée.
 
 ### Pré-requis (DVF)
 
-Créer un dossier data/ dans la racine du projet, et y mettre les fichiers suivants :
+Téléchager les fichiers suivants et les placer dans le dossier `data/` :
 
 - dvf2018.txt 
 - dvf2019.txt
