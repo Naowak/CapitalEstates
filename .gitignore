@@ -3,9 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-communes*.json
+communes-*.json
 dvf*.txt
-image.png
+image*.png
 
 # C extensions
 *.so
